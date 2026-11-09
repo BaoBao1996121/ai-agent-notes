@@ -1,0 +1,51 @@
+[
+  {
+    "source": "tutorial/Ch02-Agent的本质.md",
+    "source_sha256": "219475e0553a3194176f3b19a27052d9195f690d9e66f1f2d6ff4b9372373c34",
+    "published_as": "notes/01-agent-loop.md",
+    "treatment": "全文阅读后重新组织；移除私人场景、过时数字、不可核验引用和失效本地链接，校正绝对化表述",
+    "captured_on": "2026-11-09"
+  },
+  {
+    "source": "tutorial/Ch03-五件武器.md",
+    "source_sha256": "86e15bbf53479167db2fd68c427526626316081b6c2b1d5e9e4bce243260a038",
+    "published_as": "notes/02-workflow-patterns.md",
+    "treatment": "全文阅读后重新组织；移除私人场景、过时数字、不可核验引用和失效本地链接，校正绝对化表述",
+    "captured_on": "2026-11-09"
+  },
+  {
+    "source": "tutorial/Ch05-上下文工程.md",
+    "source_sha256": "14845d4c108ae0b9bfd6ad8a6b37c58692e5264da924505dc4c04fb3a210fdee",
+    "published_as": "notes/03-context-engineering.md",
+    "treatment": "全文阅读后重新组织；移除私人场景、过时数字、不可核验引用和失效本地链接，校正绝对化表述",
+    "captured_on": "2026-11-09"
+  },
+  {
+    "source": "tutorial/Ch06-知识管理.md",
+    "source_sha256": "6017c56d6c9f70fcc00292de32b87462df03ce5bf60dc5d6fd33bbaee4fd9d71",
+    "published_as": "notes/04-knowledge-and-memory.md",
+    "treatment": "全文阅读后重新组织；移除私人场景、过时数字、不可核验引用和失效本地链接，校正绝对化表述",
+    "captured_on": "2026-11-09"
+  },
+  {
+    "source": "tutorial/Ch07-Skill工程化.md",
+    "source_sha256": "df26a676fc4f9fa846677cd794b70ca5b0cba1f24ccd1e9da3a39e542850ae8b",
+    "published_as": "notes/05-skill-engineering.md",
+    "treatment": "全文阅读后重新组织；移除私人场景、过时数字、不可核验引用和失效本地链接，校正绝对化表述",
+    "captured_on": "2026-11-09"
+  },
+  {
+    "source": "tutorial/Ch08-评估与质量.md",
+    "source_sha256": "dda78b1e9ed53d839f84b829acf99ef3abeeb1b62c1c6999b07a18268c942bca",
+    "published_as": "notes/06-evaluation.md",
+    "treatment": "全文阅读后重新组织；移除私人场景、过时数字、不可核验引用和失效本地链接，校正绝对化表述",
+    "captured_on": "2026-11-09"
+  },
+  {
+    "source": "tutorial/Ch09-安全与可靠性.md",
+    "source_sha256": "9919d84f47ede34cfc2ec0518089b1b8c2bc9defec3860c77f6ab25b57ce8254",
+    "published_as": "notes/07-long-running-agents.md",
+    "treatment": "全文阅读后重新组织；移除私人场景、过时数字、不可核验引用和失效本地链接，校正绝对化表述",
+    "captured_on": "2026-11-09"
+  }
+]
