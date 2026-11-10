@@ -16,13 +16,14 @@
 
 只想看一次真实探索，可以直接读 [“同一版本上涨了 6.7 个百分点”](https://github.com/BaoBao1996121/agent-evolution-lab/blob/main/docs/findings.md)。
 
-## 这套积累的三个入口
+## 这套积累的四个入口
 
 | 仓库 | 解决的问题 |
 |---|---|
 | **本仓库：学习笔记** | 概念怎样连起来，哪些直觉需要修正 |
 | [agent-engineering-playbook](https://github.com/BaoBao1996121/agent-engineering-playbook) | 选型、源码分析、跨会话交接怎样实际开展 |
 | [agent-evolution-lab](https://github.com/BaoBao1996121/agent-evolution-lab) | 怎样用代码、结果文件和反例审视“自优化” |
+| [ai-research-archive](https://github.com/BaoBao1996121/ai-research-archive) | 完整一些的历史积累：RAG、Agent、记忆、模型、评估与部署，378 份文档及配套文件 |
 
 ## 积累是怎样发生的
 
